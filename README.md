@@ -20,7 +20,7 @@ This repository demonstrates the development of a **Generative AI-based Intent a
 1. **Intent and Entity Detection:** Design models capable of identifying user intents and relevant entities with high precision.
 2. **Zero-Shot and Non-Zero-Shot Learning:** Compare model performance in handling unseen (zero-shot) and trained (non-zero-shot) intents and entities.
 3. **Comparative Study of LLMs:** Evaluate and compare Meta's LLaMA and Gemini AI based on performance metrics like accuracy, F1-Score, Recall and Precision.
-4. **Training :** Prompt= Engineering and Fine-Tuning.
+4. **Training :** Prompt Engineering and Fine-Tuning.
 5. **Documentation:** Present findings through comprehensive documentation and visualizations.
 
 
