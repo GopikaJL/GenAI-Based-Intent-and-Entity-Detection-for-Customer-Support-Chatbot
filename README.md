@@ -50,8 +50,8 @@ This repository demonstrates the development of a **Generative AI-based Intent a
 
 ### **Visualization Highlights**
 - Accuracy comparison across models:
-  - LLaMA: 87.5% (zero-shot)
-  - Gemini AI: 92% (zero-shot)
+  - Meta LLaMA: 87.5% 
+  - Gemini Flash AI: 92% 
   
 - Inference time per query:
   - LLaMA: ~800ms
